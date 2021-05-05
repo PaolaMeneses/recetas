@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+.navbar {
+  height: 60px;
+  background-color: #7fffd4;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: purple;
+  text-align: center;
+  border-right: 2px solid;
+}
